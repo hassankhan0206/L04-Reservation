@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="nameInput">Please input name</string>
+    <string name="numberInput">Phone Number</string>
+    <string name="sizeInput">Size of group</string>
+    <string name="btnTime">Display Time</string>
+    <string name="btnDate">Display Date</string>
+    <string name="btnReset">Reset</string>
+    <string name="smokingRadio">Smoking Area</string>
+    <string name="nonSmokingRadio">Non-smoking Area</string>
+    <string name="btnConfirm">Confirm</string>
+</resources>
